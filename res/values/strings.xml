@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QR Reader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login_use_appstate_email">Please log in using your appstate student email.</string>
+    <string name="login_non_appstate_email">The email used to log in is a non-appstate email\nPlease switch to your appstate student account.</string>
+    <string name="scan_not_logged_in">Please log in to scan study hall QR code.</string>
+    <string name="scan_logged_in">Press Scan QR Code to register attendance.</string>
+    <string name="admin_controls">Study Hall Leader Controls</string>
+
+</resources>
